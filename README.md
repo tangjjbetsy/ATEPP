@@ -3,9 +3,9 @@ ATEPP is a dataset of expressive piano performances by virtuoso pianists. The da
 # Downloade the ATEPP dataset
 Please follow [disclaimer.md](https://github.com/BetsyTang/ATEPP/blob/master/disclaimer.md) to agree a disclaimer and download a latest version of ATEPP (~212MB).
 # Contact
-Huan Zhang, huan.zhang@qmul.ac.uk
-Jingjing Tang, jingjing.tang@qmul.ac.uk
-Syed Rafee, s.rafee@qmul.ac.uk
+- Huan Zhang, huan.zhang@qmul.ac.uk
+- Jingjing Tang, jingjing.tang@qmul.ac.uk
+- Syed Rafee, s.rafee@qmul.ac.uk
 # Cite
 # License
 CC BY 4.0
