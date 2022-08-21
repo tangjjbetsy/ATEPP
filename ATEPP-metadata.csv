@@ -1,4 +1,4 @@
-artist,artist_id,track,track_duration,composer,compostion_id,score_path,midi_path,youtube_links
+artist,artist_id,track,track_duration,composer,composition_id,score_path,midi_path,youtube_links
 Vladimir Ashkenazy,6.0,Four Pieces (originally Op.1): 3. Mélodie,218.253,Sergei Rachmaninoff,0,,Sergei_Rachmaninoff/Four_Pieces_(originally_Op.1)/3._Mélodie/00001.mid,https://www.youtube.com/watch?v=2pNrdpv2n0Q
 Vladimir Ashkenazy,6.0,Four Pieces (originally Op.1): 4. Gavotte,222.333,Sergei Rachmaninoff,1,,Sergei_Rachmaninoff/Four_Pieces_(originally_Op.1)/4._Gavotte/00002.mid,https://www.youtube.com/watch?v=CafN4QM6SvI
 Vladimir Ashkenazy,6.0,Four Pieces (originally Op.1): 2. Prelude,176.373,Sergei Rachmaninoff,2,,Sergei_Rachmaninoff/Four_Pieces_(originally_Op.1)/2._Prelude/00003.mid,https://www.youtube.com/watch?v=Fs1wAlSU8hk
