@@ -11,7 +11,7 @@ Please follow [disclaimer.md](https://github.com/BetsyTang/ATEPP/blob/master/dis
 - 49 performers
 - 43% with scores
 ## Version-1.1
-Updates: When creating ATEPP version-1.0, we only applied movement-wise matching to remove errorously downloaded audios. Now, we finished detecting repeated audios (exactly same audio) by applying audio-wise fingerprints matching. Only 65 auidos were found repeated, and the corresponding transcribed midi files were removed. The `repeats.csv` lists the repeated transcribed files that have been removed.
+Updates: When creating ATEPP version-1.0, we only applied movement-wise matching to remove erroneously downloaded audio. Now, we finished detecting repeated audios (exactly the same audio) by using audio-wise fingerprint matching. Only 65 audios were detected repeated, and the corresponding transcribed midi files were removed. The `repeats.csv` lists the repeated transcribed files that have been removed.
 
 Changed Statistics:
 - 11677 performances
