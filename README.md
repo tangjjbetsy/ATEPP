@@ -21,6 +21,8 @@ Changed Statistics:
 ## [Composition Entity Linker](https://github.com/anusfoil/Composition-Entity-Linker)
 We've released a Python package developed for linking classical music recording & track to the corresponding composition / movement, useful in cleaning up metadata in classical music datasets.
 
+Package on PyPI: https://pypi.org/project/composition-entity-linker/
+
 # Contact
 - Huan Zhang @github/anusfoil, huan.zhang@qmul.ac.uk, 
 - Jingjing Tang @github/BetsyTang, jingjing.tang@qmul.ac.uk
