@@ -6,4 +6,6 @@ In no event will we be liable to you on any legal theory (including, without lim
 The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 # Download
-Google Drive: https://drive.google.com/file/d/1Np_hV5FifhNLEN5F21ekqzr3yBcKIkp4/view?usp=sharing
+
+- Version-1.0: https://drive.google.com/file/d/1Np_hV5FifhNLEN5F21ekqzr3yBcKIkp4/view?usp=sharing
+- Version-1.1: https://drive.google.com/file/d/1QYw6DzY-NAVrwyS8LWhBccms72bgAszr/view?usp=sharing
