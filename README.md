@@ -2,6 +2,14 @@
 ATEPP is a dataset of expressive piano performances by virtuoso pianists. The dataset contains ~~11742~~ 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers. All of the MIDI files in the dataset come from the piano transcription of existing audio recordings of piano performances. Scores in MusicXML format are also available for around half of the tracks. The dataset is organized and aligned by compositions and movements for comparative studies.
 # Downloade the ATEPP dataset
 Please follow [disclaimer.md](https://github.com/BetsyTang/ATEPP/blob/master/disclaimer.md) to agree a disclaimer and download a latest version of ATEPP (~212MB).
+
+# Inference 
+You can inference your own track with the modified code and new checkpoint in ```piano_transcription-master```. The env and setup are the same as [https://github.com/bytedance/piano_transcription](https://github.com/bytedance/piano_transcription)
+
+```
+python3 pytorch/inference.py --model_type=Regress_onset_offset_frame_velocity_CRNN --checkpoint_path=300000_iterations.pth --audio_path="resources/schumann_romanzen.mp3" --cuda
+```
+
 # Statistics
 ## Version-1.0
 - 11742 performances (in midi format)
