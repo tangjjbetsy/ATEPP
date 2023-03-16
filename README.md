@@ -1,4 +1,4 @@
-# ATEPP:A Dataset of Automatically Transcribed Expressive Piano Performances
+# ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performances
 ATEPP is a dataset of expressive piano performances by virtuoso pianists. The dataset contains ~~11742~~ 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers. All of the MIDI files in the dataset come from the piano transcription of existing audio recordings of piano performances. Scores in MusicXML format are also available for around half of the tracks. The dataset is organized and aligned by compositions and movements for comparative studies. More details are presented in the [paper](https://archives.ismir.net/ismir2022/paper/000053.pdf). 
 
 # Downloade the ATEPP dataset
