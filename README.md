@@ -1,5 +1,6 @@
 # ATEPP
-ATEPP is a dataset of expressive piano performances by virtuoso pianists. The dataset contains ~~11742~~ 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers. All of the MIDI files in the dataset come from the piano transcription of existing audio recordings of piano performances. Scores in MusicXML format are also available for around half of the tracks. The dataset is organized and aligned by compositions and movements for comparative studies.
+ATEPP is a dataset of expressive piano performances by virtuoso pianists. The dataset contains ~~11742~~ 11677 performances (~1000 hours) by 49 pianists and covers 1580 movements by 25 composers. All of the MIDI files in the dataset come from the piano transcription of existing audio recordings of piano performances. Scores in MusicXML format are also available for around half of the tracks. The dataset is organized and aligned by compositions and movements for comparative studies. More details are presented in the [paper](https://archives.ismir.net/ismir2022/paper/000053.pdf). 
+
 # Downloade the ATEPP dataset
 Please follow [disclaimer.md](https://github.com/BetsyTang/ATEPP/blob/master/disclaimer.md) to agree a disclaimer and download a latest version of ATEPP (~212MB).
 
@@ -36,5 +37,13 @@ Package on PyPI: https://pypi.org/project/composition-entity-linker/
 - Jingjing Tang @github/BetsyTang, jingjing.tang@qmul.ac.uk
 - Syed Rafee, @github/syedrafee s.rafee@qmul.ac.uk
 # Cite
+```
+@inproceedings{zhang2022atepp,
+  title={ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performance},
+  author={Zhang, Huan and Tang, Jingjing and Rafee, Syed Rifat Mahmud and Fazekas, Simon Dixon Gy{\"o}rgy},
+  booktitle={Ismir 2022 Hybrid Conference},
+  year={2022}
+}
+```
 # License
 CC BY 4.0
