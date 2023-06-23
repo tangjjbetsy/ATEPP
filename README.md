@@ -36,7 +36,7 @@ There are several issues found with the ATEPP Version-1.1:
 
 3. **Error labels** of composition were found when manually verify the suspected pieces.
 
-Three csv files (`combined_suspect.csv`, `corrupted_suspect.csv`, `corrupted_confirmed,csv`) were uploaded. When using the dataset, you could exclude all pieces contained in these csv files. We will try to release a cleaner version soon.
+Three csv files (`combined_suspect.csv`, `corrupted_suspect.csv`, `corrupted_confirmed,csv`) were uploaded. When using the dataset, you could exclude all pieces contained in these csv files. We will try to release a cleaner version soon. If you find any more issues or any errorous pieces that are not included in the above files, feel free to contact us.
 
 # Related Works
 ## [Composition Entity Linker](https://github.com/anusfoil/Composition-Entity-Linker)
