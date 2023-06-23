@@ -34,7 +34,7 @@ There are several issues found with the ATEPP Version-1.1:
 
 2. **Combined movements** (the performance plays two or more movements) were found through a similar detection process of comparing the the total note number and the duration with the medians. ~170 pieces are suspected to have this issue.
 
-3. **Error labels** of composition were found when manually verify the suspected pieces.
+3. **Error labels** of composition were found when we manually verify the suspected pieces.
 
 Three csv files (`combined_suspect.csv`, `corrupted_suspect.csv`, `corrupted_confirmed,csv`) were uploaded. When using the dataset, you could exclude all pieces contained in these csv files. We will try to release a cleaner version soon. If you find any more issues or any errorous pieces that are not included in the above files, feel free to contact us.
 
@@ -48,7 +48,8 @@ Package on PyPI: https://pypi.org/project/composition-entity-linker/
 - Huan Zhang @github/anusfoil, huan.zhang@qmul.ac.uk, 
 - Jingjing Tang @github/BetsyTang, jingjing.tang@qmul.ac.uk
 - Syed Rafee, @github/syedrafee s.rafee@qmul.ac.uk
-# Cite
+
+# Citation
 ```
 @inproceedings{zhang2022atepp,
   title={ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performance},
@@ -57,5 +58,6 @@ Package on PyPI: https://pypi.org/project/composition-entity-linker/
   year={2022}
 }
 ```
+
 # License
 CC BY 4.0
