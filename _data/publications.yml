@@ -1,22 +1,42 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: Reconstructing Human Expressiveness in Piano Performances with a Transformer Network
+    authors: <strong>Jingjing Tang</strong>, Geraint Wiggins, George Fazekas
+    conference_short: CMMR
+    conference: The 16th International Symposium on Computer Music Multidisciplinary Research, 2023 Tokyo
+    pdf: https://arxiv.org/abs/2306.06040
+    code: https://github.com/tangjjbetsy/RHEPP-Transformer
+    example: https://drive.google.com/drive/folders/1nfaZ23vr8xZHlyhTAAppK2hl-aHQPigP?usp=sharing
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nmM4_Ph3uPgJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEyUsA:AFWwaeYAAAAAZVQ0SsC8vJPiusEwMHdM2QUKN6w&scisig=AFWwaeYAAAAAZVQ0Ss6yNGbJyRoQer_fTi_8BPg&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/RHEPP.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: "JAZZVAR: A Dataset of Variations found within Solo Piano Performances of Jazz Standards for Music Overpainting"
+    authors: Eleanor Row, <strong>Jingjing Tang</strong>, George Fazekas
+    conference_short: CMMR
+    conference: The 16th International Symposium on Computer Music Multidisciplinary Research, 2023 Tokyo
+    pdf: https://arxiv.org/abs/2307.09670
+    example: https://drive.google.com/drive/folders/13SmiT2AevqP3ma3xWy4LanQwcjyRlLG1?usp=sharing
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:EHCEFGkuyxwJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEzSgc:AFWwaeYAAAAAZVQ1UgcUiqBUOCPar8yie2cCGIc&scisig=AFWwaeYAAAAAZVQ1Uh8zhywaW78EL5MmISe0XGQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    notes: Oral Presentation
+    image: ./assets/img/JAZZVAR.png
+
+  - title: "Pianist Identification Using Convolutional Neural Networks"
+    authors: <strong>Jingjing Tang</strong>, Geraint Wiggins, George Fazekas
+    conference_short: IS2
+    conference: The 4th International Symposium on the Internet of Sounds, 2023 Pisa
+    pdf: https://arxiv.org/abs/2310.00699
+    code: https://github.com/tangjjbetsy/PID-CNN
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:1V5TO3AtwscJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPEw8gU:AFWwaeYAAAAAZVQ26gVm05Qd3ksWGkXXMaHuYOI&scisig=AFWwaeYAAAAAZVQ26kinyLtL0Efn9zHZMCDqn7I&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Poster Presentation
+    image: ./assets/img/PID.png
+
+  - title: "ATEPP: A dataset of automatically transcribed expressive piano performance"
+    authors: Huan Zhang*, <strong>Jingjing Tang*</strong>, Syed Rafee*, Simon Dixon, George Fazekas, G Wiggins (*Co-Primary Author)
+    conference_short: ISMIR
+    conference: The 23rd International Society for Music Information Retrieval Conference, 2022 India
+    pdf: https://www.eecs.qmul.ac.uk/~simond/pub/2022/70.pdf
+    code: https://github.com/tangjjbetsy/ATEPP
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DV5WyULfHqsJ:scholar.google.com/&output=citation&scisdr=ClHBSEIKENT2vPE_kcc:AFWwaeYAAAAAZVQ5icfRqAjxU4-w9QgPuYAmfFY&scisig=AFWwaeYAAAAAZVQ5iYxQ345WnOUNJt56vvwM5Q0&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    notes: Oral Presentation
+    image: ./assets/img/ATEPP.png

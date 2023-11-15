@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently in my fourth year as a Ph.D. student at the Center for Digital Music, Queen Mary University of London. My research is centered around applying deep learning techniques to generate controllable, expressive piano performances, with a specific emphasis on creating pianist-style conditioned outputs. My academic interests span a range of topics, including controllable music generation, modeling of expressive performances, classification of performers, analysis of music performances, and related areas.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Automated Music Generation:** controllable music generation, music style transfer, expressive performance rendering, music genration evaluation
+- **Music Information Retrieval:** music performer/composer/style classification, music performance analysis, music transcription, music alignment algorithms
+- **Machine Learning:** deep generative models, contrastive learning, few-shot learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2023]** Our papers about reconstructing human expressiveness in piano performances and a dataset of jazz variations for jazz standards are presented in the oral sessions at CMMR 2023, Japan.
+- **[Oct. 2023]** Our paper about a pianist identification system is presented in the poster session at IS2 2023, Italy.
+- **[Dec. 2022]** We release a large-scale dataset of the automatic transcribed expressive piano performances in ISMIR 2022, India.
 
 {% include_relative _includes/publications.md %}
 
