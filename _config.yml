@@ -1,7 +1,7 @@
 # Basic Information 
 title: Jingjing Tang
 position: Ph.D. Student
-affiliation: C4DM, Queen Mary University of London
+affiliation: Artificial Intelligence and Music Program, Center for Digital Music, Queen Mary University of London
 affiliation_link: https://www.aim.qmul.ac.uk/
 email: jingjing.tang (at) qmul.ac.uk
 
@@ -22,7 +22,7 @@ twitter: https://twitter.com/tt_betsy
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
+favicon: ./assets/img/favicon-dark.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
