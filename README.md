@@ -36,7 +36,38 @@ There are several issues found with the ATEPP Version-1.1:
 
 3. **Error labels** of composition were found when we manually verify the suspected pieces.
 
-Three csv files (`combined_suspect.csv`, `corrupted_suspect.csv`, `corrupted_confirmed,csv`) were uploaded. When using the dataset, you could exclude all pieces contained in these csv files. We will try to release a cleaner version soon. If you find any more issues or any errorous pieces that are not included in the above files, feel free to contact us.
+### Confirmed Corrections To Date
+We will keep update this version. A new property `notes` has been added to the metadata for clarifying the following situations.
+
+#### Error labels
+- 00462.mid (notes, drop, composition not included in the data)
+- 06345.mid 06346.mid 06348.mid 06350.mid 06351.mid 06353.mid (fixed)
+- 06379.mid (fixed)
+- 01104.mid (notes, drop, composition not included in the data)
+- 05405.mid (fixed)  `I._Molto_allegro -> III._Allegro_assai`
+- 01824.mid 01826.mid (fixed) `French_Suite_No.2_in_C_minor,_BWV_813/2._Courante/ -> Partita_No._2_in_C_minor,_BWV_826/3._Courante`
+- 02804.mid 02820.mid(fixed) `6._Menuet -> 5._Polonaise; 6._Menuet -> 7._Bourr√©e`
+- 09695.mid 09696.mid 09699.mid 09700.mid 09701.mid (fixed)`No._5_in_E_Minor -> No._12_in_C_Minor`
+
+#### Two Piece Combine
+- 00505.mid (07:38), fixed (part1 → 00505.mid, part2→00505-2.mid)
+
+#### Corrupted Transcription
+- 00213.mid (notes, bad quality)
+- 00214.mid (notes, corrupted)
+- 00562.mid (notes, corrupted)
+- 06586.mid (notes, corrupted)
+- 10807.mid (notes, corrupted)
+- 07593.mid (notes, corrupted)
+- 09084.mid (notes, corrupted)
+
+#### Repetition
+##### With (notes, has repetition)
+- 01116.mid
+- 05511.mid (6:35), without repetition → 05511-1.mid
+##### Without (notes, no repetition)
+- 07546.mid
+- 07547.mid
 
 # Related Works
 ## [Composition Entity Linker](https://github.com/anusfoil/Composition-Entity-Linker)
