@@ -9,3 +9,4 @@ The disclaimer of warranties and limitation of liability provided above shall be
 
 - Version-1.0: https://drive.google.com/file/d/1Np_hV5FifhNLEN5F21ekqzr3yBcKIkp4/view?usp=sharing
 - Version-1.1: https://drive.google.com/file/d/1QYw6DzY-NAVrwyS8LWhBccms72bgAszr/view?usp=sharing
+- Version-1.2: https://drive.google.com/file/d/1rHMv_SxvaQussffkvLxMpcJXDYk9WIDL/view?usp=sharing
