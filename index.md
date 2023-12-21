@@ -6,6 +6,11 @@ layout: homepage
 
 I am currently in my fourth year as a Ph.D. student in Artificial Intelligence and Music (AIM) program, at the C4DM, QMUL, supervised by [Prof. George Fazekas](https://www.eecs.qmul.ac.uk/~gyorgyf/about.html) and [Prof. Geraint Wiggins](https://ai.vub.ac.be/team/geraint-wiggins/). My research is centered around applying deep learning techniques to generate controllable, expressive piano performances, with a specific emphasis on creating pianist-style conditioned outputs. My academic interests span a range of topics, including controllable music generation, modeling of expressive performances, classification of performers, analysis of music performances, and related areas.
 
+## Education
+
+- **[Sep. 2020 - Now]** Ph.D. Student in Artificial Intelligence and Music (AIM) program, at Queen Mary University of London
+- **[Sep. 2016 - May 2020]** Bachelor of Science in Statistics (Data Science Branch), at Chinese Univeristy of Hong Kong, Shenzhen
+
 ## Research Interests
 
 - **Automated Music Generation:** controllable music generation, music style transfer, expressive performance rendering, music genration evaluation
