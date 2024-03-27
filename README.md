@@ -40,10 +40,10 @@ There are several issues found with the ATEPP Version-1.1:
 We will keep update this version. A new property `notes` has been added to the metadata for clarifying the following situations.
 
 #### Error labels
-- 00462.mid (notes, drop, composition not included in the data)
+- 00462.mid (notes: drop, composition not included in the data)
 - 06345.mid 06346.mid 06348.mid 06350.mid 06351.mid 06353.mid (fixed)
 - 06379.mid (fixed)
-- 01104.mid (notes, drop, composition not included in the data)
+- 01104.mid (notes: drop, composition not included in the data)
 - 05405.mid (fixed)  `I._Molto_allegro -> III._Allegro_assai`
 - 01824.mid 01826.mid (fixed) `French_Suite_No.2_in_C_minor,_BWV_813/2._Courante/ -> Partita_No._2_in_C_minor,_BWV_826/3._Courante`
 - 02804.mid 02820.mid(fixed) `6._Menuet -> 5._Polonaise; 6._Menuet -> 7._Bourr√©e`
@@ -53,19 +53,19 @@ We will keep update this version. A new property `notes` has been added to the m
 - 00505.mid (07:38), fixed (part1 → 00505.mid, part2→00505-2.mid)
 
 #### Corrupted Transcription
-- 00213.mid (notes, bad quality)
-- 00214.mid (notes, corrupted)
-- 00562.mid (notes, corrupted)
-- 06586.mid (notes, corrupted)
-- 10807.mid (notes, corrupted)
-- 07593.mid (notes, corrupted)
-- 09084.mid (notes, corrupted)
+- 00213.mid (notes: bad quality)
+- 00214.mid (notes: corrupted)
+- 00562.mid (notes: corrupted)
+- 06586.mid (notes: corrupted)
+- 10807.mid (notes: corrupted)
+- 07593.mid (notes: corrupted)
+- 09084.mid (notes: corrupted)
 
 #### Repetition
-##### With (notes, has repetition)
+##### With (notes: has repetition)
 - 01116.mid
 - 05511.mid (6:35), without repetition → 05511-1.mid
-##### Without (notes, no repetition)
+##### Without (notes: no repetition)
 - 07546.mid
 - 07547.mid
 
