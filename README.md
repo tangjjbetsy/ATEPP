@@ -34,11 +34,10 @@ Changed Statistics:
 - 1595 movements
 
 There are several issues found with the ATEPP Version-1.1:
-1. **Corrupted Transcriptions (CTs)** were found because of errors made by the transcription model when dealing with low-quality recordings (usually the live performances or old recordings). To detect the CTs, we compared the total note number and the duration of a performance with the medians for the same composition. We filtered out those which have similar duration to the midian but have much more/less notes with thresholds. We also mannually filtered out low-quality (annotated as `low quality`) audios by listening to them. In total, 1211 audios were categorised as low-quality, having **high possibility** to lead to CTs. The `corrupted` refers to those confirmed corrupted with midi file.
-
-In addition to low-quality audios, we annotated 1326 audios which contain `background noise`. These audios differ from low-quality audios in the way that they were transcribed with higher accuracy compared to those corresponding to low-quality audios. 
-
-As for live performances, we annotated `applause` if the recording contains that. We used `high quality` to refer to live recordings with good quality (clear, no applause, almost imperceptible background noise). 
+1. **Corrupted Transcriptions (CTs)** were found because of errors made by the transcription model when dealing with low-quality recordings (usually the live performances or old recordings). To detect the CTs, we compared the total note number and the duration of a performance with the medians for the same composition. We filtered out those which have similar duration to the midian but have much more/less notes with thresholds. We also mannually filtered out low-quality (annotated as `low quality`) audios by listening to them. 
+  - In total, 1211 audios were categorised as low-quality, having **high possibility** to lead to CTs. The `corrupted` refers to those confirmed corrupted with midi file. 
+  - In addition to low-quality audios, we annotated 1326 audios which contain `background noise`. These audios differ from low-quality audios in the way that they were transcribed with higher accuracy compared to those corresponding to low-quality audios. 
+  - As for live performances, we annotated `applause` if the recording contains that. We used `high quality` to refer to live recordings with good quality (clear, no applause, almost imperceptible background noise). 
 
 2. **Combined Movements (CMs)** (one midi/audio consists of two or more movements) were found through a similar detection process of comparing the the total note number and the duration with the medians. 7 were found, cut and relabeled.
 
