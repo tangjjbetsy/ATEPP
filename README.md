@@ -11,7 +11,7 @@ You can inference your own track with the modified code and new checkpoint in ``
 python3 pytorch/inference.py --model_type=Regress_onset_offset_frame_velocity_CRNN --checkpoint_path=300000_iterations.pth --audio_path="resources/schumann_romanzen.mp3" --cuda
 ```
 
-# Statistics
+# Released Versions
 ## Version-1.0
 - 11742 performances (in midi format)
 - 1007 hours
