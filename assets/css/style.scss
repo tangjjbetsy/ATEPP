@@ -2,3 +2,17 @@
 ---
 
 @import "minimal-light";
+
+section{
+    float: none;
+    width: 960px;
+}
+
+section h1{
+    text-align: center;
+}
+
+.author{
+    font-size: larger;
+    text-align: center;
+}

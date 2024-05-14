@@ -1,33 +1,30 @@
 # Basic Information 
-title: Jingjing Tang
-position: Ph.D. Student
+title: "ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performance"
 affiliation: Artificial Intelligence and Music Program, Center for Digital Music, Queen Mary University of London
 affiliation_link: https://www.aim.qmul.ac.uk/
 email: jingjing.tang (at) qmul.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: jingjing tang
-description: The academic personal homepage for Jingjing Tang.
-canonical: https://tangjjbetsy.github.io/
+keywords: ATEPP dataset
+description: 'The project page for paper "ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performance"'
+canonical: https://tangjjbetsy.github.io/~ATEPP-dataset
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=kKGeJWUAAAAJ&hl=en
-cv_link: assets/files/Jingjing_Tang_CV_20231115.pdf
-github_link: https://github.com/tangjjbetsy
-linkedin: https://www.linkedin.com/in/jingjing-tang-5b2566179/
-twitter: https://twitter.com/tt_betsy
+github_link: https://github.com/tangjjbetsy/ATEPP
+paper_link: https://www.eecs.qmul.ac.uk/~simond/pub/2022/70.pdf
+supplementary: ./assets/files/Appendix.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon-dark.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme

@@ -1,0 +1,26 @@
+authors:
+  - name: Huan Zhang
+    url: https://www.huanz.space/
+    first_author: true
+
+  - name: Jingjing Tang
+    url: https://tangjjbetsy.github.io/
+    me: true
+    first_author: true
+  
+  - name: Syed RM Rafee
+    url: 
+    first_author: true
+  
+  - name: Simon Dixon
+    url: https://www.eecs.qmul.ac.uk/~simond/
+  
+  - name: George Fazekas
+    url: https://eecs.qmul.ac.uk/~gyorgyf/
+
+institutes:
+  - name: School of Electronic Engineering and Computer Science, Queen Mary University of London
+
+conference:
+  - name: The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022)
+  - location: Bengaluru, India

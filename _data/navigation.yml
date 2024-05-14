@@ -1,0 +1,25 @@
+main:
+  - title: "Citation"
+    url: ./#citation
+    right: true
+    
+  - title: "Statistics"
+    url: ./#statistics
+  
+  - title: "Model"
+    url: ./#transcription-model
+
+  - title: "Pipeline"
+    url: ./#data-curation-pipeline
+
+  - title: "Overview"
+    url: ./#dataset-overview
+
+  - title: "Abstract"
+    url: ./#abstract
+
+  
+
+  
+
+  
