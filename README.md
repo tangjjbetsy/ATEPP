@@ -19,7 +19,7 @@ There are several issues found with the ATEPP Version-1.1:
     - In addition to low-quality audios, we annotated 1436 audios with `background noise`. These audios differ from low-quality audios in the way that they were transcribed with higher accuracy compared to those corresponding to low-quality audios. We suggest to filter out the corresponding midi files (tagged with `low quality` and `background noise`) when using the dataset.
     - As for live performances, we annotated `applause` if the recording contains that. We used `high quality` to refer to live recordings with good quality (clear, no applause, almost imperceptible background noise). 
 
-2. **Combined Movements (CMs)** (one midi/audio consists of two or more movements) were found through a similar detection process of comparing the the total note number and the duration with the medians. 7 were found, cut and relabeled.
+2. **Combined Movements (CMs)** (one midi/audio consists of two or more movements) were found through a similar detection process of comparing the total note number and the duration with the medians. 7 were found, cut and relabeled.
 
 3. **Error Labels (ELs)** of composition were found when we manually verify the suspected pieces. 220 performances were found wrongly labelled and corrected.
 
@@ -47,7 +47,7 @@ Changed Statistics:
 - 43% with scores
 
 ## Related Works
-## [Composition Entity Linker](https://github.com/anusfoil/Composition-Entity-Linker)
+### [Composition Entity Linker](https://github.com/anusfoil/Composition-Entity-Linker)
 We've released a Python package developed for linking classical music recording & track to the corresponding composition / movement, useful in cleaning up metadata in classical music datasets.
 
 Package on PyPI: https://pypi.org/project/composition-entity-linker/
