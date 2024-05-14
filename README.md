@@ -1,1 +1,1 @@
-Repo for my personal page
+Repo for project page
